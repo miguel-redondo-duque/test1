@@ -1,0 +1,7 @@
+name: Test-MARD
+type: private
+problem-statement: Ejemplo
+date-start: 2020-11-01T00:00:00COT
+date-end: 2022-12-30T00:00:00COT
+teambe-enabled: true
+private: true
